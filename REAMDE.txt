@@ -1,0 +1,8 @@
+DE: x, txt
+DS: alerta
+
+Inicio
+Leer x
+Leer txt
+Si (txt1 && txt5)
+ 

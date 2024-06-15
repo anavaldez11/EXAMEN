@@ -1,0 +1,10 @@
+¿Qué significa CSS?
+CSS son las siglas de “Cascading Style Sheets” (hojas de estilo en cascada).
+¿Cuál es el HTML correcto para hacer referencia a una hoja de estilo externa?
+Escribirás rel="stylesheet" para decirle al navegador que está importando una hoja de estilo
+¿En qué parte de un documento HTML está el lugar correcto para hacer referencia a una hoja de estilo externa?
+La etiqueta <STYLE> se coloca en la cabecera HEAD del documento. 
+¿Qué etiqueta HTML se utiliza para definir una hoja de estilo interna?
+<style> y </style>
+¿Qué atributo HTML se utiliza para definir estilos en línea?
+El atributo style permite definir propiedades de estilo a un elemento determinado.
